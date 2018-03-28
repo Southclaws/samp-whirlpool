@@ -1,0 +1,21 @@
+{
+    "user":"Southclaws",
+    "repo":"samp-whirlpool",
+    "resources":[
+        {
+            "name":"Whirlpool.dll",
+            "platform":"windows",
+            "archive":false
+        },
+        {
+            "name":"Whirlpool.so",
+            "platform":"linux",
+            "archive":false
+        }
+    ],
+    "runtime":{
+        "plugins":[
+            "Southclaws/samp-whirlpool"
+        ]
+    }
+}
